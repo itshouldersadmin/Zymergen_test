@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_JjqMQItwEemd7e46wsF3qw" label="Zymergen_Test" language="java" technicalLabel="ZYMERGEN_TEST" author="_JjqMQYtwEemd7e46wsF3qw" productVersion="Talend Cloud Real-Time Big Data Platform-7.1.1.20190228_0243-patch" url="{&quot;location&quot;:&quot;https://github.com/itshouldersadmin/Zymergen_test.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" bigData="false">
+    <migrationTask xmi:id="_JrSeQItwEemd7e46wsF3qw" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
+  </TalendProperties:Project>
+  <TalendProperties:User xmi:id="_JjqMQYtwEemd7e46wsF3qw" login="aravindr@nfr.itshoulders.com" firstName="Aravind" lastName="Ravi" type="DQ"/>
+</xmi:XMI>
